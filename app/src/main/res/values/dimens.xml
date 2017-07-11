@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="txtsize_display1">34sp</dimen>
+    <dimen name="txtsize_headline">24sp</dimen>
+    <dimen name="txtsize_title">20sp</dimen>
+    <dimen name="txtsize_subhead">16sp</dimen>
+    <dimen name="txtsize_body">14sp</dimen>
+    <dimen name="txtsize_caption">12sp</dimen>
+
+
+    <color name="com_sina_weibo_sdk_loginview_text_color">#FFFFFF</color>
+    <dimen name="com_sina_weibo_sdk_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding">12dip</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_left">12dip</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_right">16dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_top">6dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_padding_bottom">6dp</dimen>
+    <dimen name="com_sina_weibo_sdk_loginview_compound_drawable_padding">12dp</dimen>
+</resources>
